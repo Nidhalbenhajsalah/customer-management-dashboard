@@ -1,3 +1,9 @@
+#Installing dependencies: 
+Open terminal 
+in root folder and type npm i  then type npm start, front interface will run on port 4200
+go to server folder and type npm i then type npm start, backend will run on port 3000
+
+
 # CustomerManagementDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
